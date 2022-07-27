@@ -26,3 +26,7 @@ p {
 .carousel-caption {
     z-index: 2;
 }
+
+.explore-desc {
+    background-color: #F4FAFD;
+}
