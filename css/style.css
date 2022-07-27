@@ -30,3 +30,8 @@ p {
 .explore-desc {
     background-color: #F4FAFD;
 }
+
+.fa-star,
+.fa-star-half {
+    color: #F59E0B;
+}
