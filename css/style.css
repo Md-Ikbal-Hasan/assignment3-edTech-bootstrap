@@ -27,8 +27,25 @@ p {
     z-index: 2;
 }
 
+section {
+    margin-top: 150px;
+}
+
 .explore-desc {
     background-color: #F4FAFD;
+}
+
+.card-body footer {
+    margin-top: 50px;
+
+}
+
+.card-body footer p {
+    color: #4A4A4A;
+}
+
+footer {
+    margin-top: 150px;
 }
 
 .fa-star,
