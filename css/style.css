@@ -6,6 +6,10 @@ nav li a {
     color: #777777;
 }
 
+p {
+    color: #777777;
+}
+
 .drk:after {
     content: "";
     display: block;
